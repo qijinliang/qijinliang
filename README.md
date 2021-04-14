@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 我是齐金亮👋
 
-Here are some ideas to get you started:
+这是我的个人介绍:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qijinliang&layout=compact)](https://github.com/qijinliang/SwiftUI-WorkSpace)
+
 
 
 
