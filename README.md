@@ -11,14 +11,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qijinliang&show_icons=true&theme=radical)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qijinliang&repo=SwiftUI-WorkSpace)](https://github.com/qijinliang/SwiftUI-WorkSpace)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qijinliang&show_icons=true&theme=radical)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qijinliang&repo=SwiftUI-WorkSpace)](https://github.com/qijinliang/SwiftUI-WorkSpace)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qijinliang&repo=SwiftUI)](https://github.com/qijinliang/SwiftUI)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qijinliang&layout=compact)](https://github.com/qijinliang/SwiftUI-WorkSpace)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
