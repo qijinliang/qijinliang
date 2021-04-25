@@ -15,6 +15,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qijinliang&repo=SwiftUI-WorkSpace)](https://github.com/qijinliang/SwiftUI-WorkSpace)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qijinliang&repo=SwiftUI-WorkSpace)](https://github.com/qijinliang/SwiftUI)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qijinliang&layout=compact)](https://github.com/qijinliang/SwiftUI-WorkSpace)
 
 
