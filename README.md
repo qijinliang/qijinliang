@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qijinliang&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qijinliang&repo=SwiftUI-WorkSpace)](https://github.com/qijinliang/SwiftUI-WorkSpace)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qijinliang&repo=SwiftUI)](https://github.com/qijinliang/SwiftUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qijinliang&repo=SwiftUI)](https://github.com/qijinliang/SwiftUI)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qijinliang&repo=CS-Notes)](https://github.com/qijinliang/CS-Notes)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qijinliang&repo=CodeForJob)](https://github.com/qijinliang/CodeForJob)
 
